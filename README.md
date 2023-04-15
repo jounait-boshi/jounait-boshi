@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jounait-boshi
+- 👋 Hi, I’m @jounight-boshi
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ...python
 
