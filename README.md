@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JONIAGHT_BOSHI
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ...js
+- 🌱 I’m currently learning ...CYBER SECURITY
 
 
 
